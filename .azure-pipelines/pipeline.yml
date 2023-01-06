@@ -16,7 +16,7 @@ parameters:
   default: false
 - name: publishArtifacts
   type: boolean
-  default: false
+  default: true
 - name: buildAlternatePackage
   type: boolean
   default: true
